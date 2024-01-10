@@ -10,9 +10,13 @@ Keyboard functions to use while running after training is complete:
 - 's' = saves "NumVidsToSave" number of lunar lander attempts
 - 'Esc' = Exits the program
 
-If you would like to see examples of what the simulations look like, please visit the videos folder located in this repository. The videos
-located in the "IntermediateVids" folder show an example of the AI agent attempting to solve the lunar lander problem at each 100 steps of
-training. The "CompletedVids" folder contains 5 independent examples of the fully trained AI agent successfully landing.
+The sample output below shows an example of the AI agent solving the lunar lander problem after training has been completed. If you would
+like to see more examples of what simulations look like, please visit the videos folder located in this repository. The videos located in
+the "IntermediateVids" folder show an example of the AI agent attempting to solve the lunar lander problem at each 100 steps of training.
+The "CompletedVids" folder contains 5 independent examples of the fully trained AI agent successfully landing.
+
+#### Sample Output:
+https://github.com/notthattal/LunarLanderProject/assets/61614571/567357af-5a6d-4c77-a996-7d7441dfc635
 
 #### Notes:
 
